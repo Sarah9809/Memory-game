@@ -1,0 +1,11 @@
+h3{
+  text-align: center;
+}
+.board {
+  margin: 0 auto;
+  display: auto;
+  flex-wrap: wrap;
+  width: 780px;
+  height: 400px;
+}
+
